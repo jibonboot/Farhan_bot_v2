@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'BAYJID Ai',
+      name: '𝗙𝗔𝗥𝗛𝗔𝗡 𝗔𝗛𝗠𝗘𝗗 💫✨',
       gender: 'Male',
       age: '17+',
-      height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/BAYJID.404',
-      nick: 'BIJU'
+      height: '5 fit and 11 inches',
+      facebookLink: 'https://www.facebook.com/farhan.ahmed2401?mibextid=ZbWKwL',
+      nick: '𝗙𝗔𝗥𝗛𝗨𝗨 💋'
     };
 
     const bold = 'https://i.imgur.com/DDO686J.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
